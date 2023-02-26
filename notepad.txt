@@ -1,0 +1,191 @@
+Snipez. II acc:    xpro360x@gmail.com
+                   +weaBP9+Q*9CfN#
+
+nejc acc:
+
+daskus333
+DASA_DEBELAk22
+
+alina acc:
+
+pomeranec123
+pomeranec123
+
+mokri mirko epic:
+
+xxmega18xx@gmail.com
+LUCwk_4JFQhdC9U
+
+
+debelidavid valo acc:
+
+nkjurovskidol1
+debelitinej123
+
+andrejko valo acc:
+
+andrejko0
+lolekbolek1
+
+neki random acc:
+
+aleks199107
+gradisce32a
+
+tinej acc
+
+password: 8QsdJk58
+name: thrusZ
+
+nino acc:
+
+name: xDeadSoul09
+password: DEADSTROKE123
+ 
+             ϟ       ╾━╤デ╦︻      │     hexaball game       ඞ     ™
+
+r_drawothermodels 2
+
+
+https://www.tobyscs.com/sv-cheats-commands/
+
+
+sv_gravity 300 – Moon gravity
+
+bot_mimic 1 – Spawns a bot that mimics your every move.
+
+thirdperson
+
+for aim controll (not excactly aimbot)
+
+weapon_accuracy_nospread 1;
+weapon_debug_spread_gap 1;
+weapon_recoil_cooldown 0;
+weapon_recoil_decay1_exp 99999;
+weapon_recoil_decay2_exp 99999;
+weapon_recoil_decay2_lin 99999;
+weapon_recoil_scale 0;
+weapon_recoil_suppression_shots 500
+
+sv_infinite_ammo 2
+Gives the players infinite magazines. (You have unlimited ammo but you have to reload).
+
+sv_infinite_ammo 1
+Gives the players infinite ammo in a magazine (unlimited ammo and no reload).
+
+ammo_grenade_limit_total 5
+Changes grenade limit to 5, allowing you to have them all at once.
+
+Shows grenade trajectory
+sv_grenade_trajectory 1;
+sv_showimpacts 1
+Shows bullet impacts.
+
+host_timescale [enter value here]
+Changes the time scale. The normal setting is 1.
+
+sv_gravity [enter value here]
+Changes the gravity. The normal setting is 800. You can make reeaaally high jumps if you set it to like 100 or so. Works great if both of you get an SSG 08.
+
+bot_kick
+Kicks all bots.
+
+bot_add_t
+bot_add_ct
+Adds a bot to the chosen team.
+
+bot_dont_shoot
+Bots won't shoot if you type this. Type again to turn it off.
+
+bot_stop 1
+Bots will stand still and do nothing. Type bot_stop 0 to turn it off.
+
+bot_mimic 1
+Bots will mimic all your actions.
+
+Watermelon:
+prop_physics_create props_junk/watermelon01.mdl
+
+ent_fire !self addoutput "rendermode 10"-invisibility
+
+give weapon_bumpmine
+
+give weapon_healthshot
+
+Sv_regeneration_force_on 1            -only headshot
+
+
+bind "k" "say ( ͡° ͜ʖ ͡°)"    -bind words
+
+185.91.116.47:27027 -best surf map     !ws za skine    !knife    !gloves
+
+B-HOP COMMANDS:
+
+sv_enablebunnyhopping 1;
+sv_maxvelocity 3500;
+sv_staminamax 0;
+sv_staminalandcost 0.050;
+sv_staminajumpcost 0.080;
+sv_accelerate_use_weapon_speed 0;
+sv_staminarecoveryrate 0;
+sv_autobunnyhopping 1;
+sv_airacceleratew 12
+
+bindtoggle i cl_righthand 0 -move hands
+
+cl_hud_playercount_pos [0 / 1]  -player count move
+
+mp_roundtime_defuse 60;mp_roundtime_hostage 60;mp_roundtime 60;  -infinite round time
+
+
+mp_buy_anywhere 1;mp_buytime 60000      -buy anywhere on map
+
+mp_maxmoney 65535;mp_startmoney 65535;mp_afterroundmoney 65535;     -infinite money
+
+mp_maxmoney 65535;mp_startmoney 65535;mp_afterroundmoney 65535;mp_buytime 60000
+;mp_roundtime_defuse 60;mp_roundtime_hostage 60;
+mp_roundtime 60;mp_restartgame 1                                    -vse spupaj od zgoraj
+
+
+
+sv_showimpacts 1       -too se where the bullet wall bangs
+
+give weapon_ak47     -give weapon
+
+fov_cs_debug 150
+
+
+bind (key) "sv_cheats 1; noclip"      -bind command (brez oklepajov)
+
+give weapon_knife_butterfly;ent_fire weapon_knife addoutput "classname weapon_knifegg"    - butterfly knife on private server
+give weapon_knife_karambit;ent_fire weapon_knife addoutput "classname weapon_knifegg"
+give weapon_knife_tactical;ent_fire weapon_knife addoutput "classname weapon_knifegg"
+give weapon_knife_m9_bayonet;ent_fire weapon_knife addoutput "classname weapon_knifegg"
+
+mp_drop_knife_enable 1  -enable this first   <-------
+
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1893503324     -knife link commande
+
+📁Local Disk (C:)
+└📁Program Files (x86)
+⠀└📁steam
+⠀⠀└📁steamapps
+⠀⠀⠀└📁common
+⠀⠀⠀⠀└📁CSGO
+⠀⠀⠀⠀⠀└📁Skills
+⠀⠀⠀⠀⠀⠀└⚠️This folder is empty
+⠀⠀⠀⠀⠀└📁 Aim
+⠀⠀⠀⠀⠀⠀└⚠️This folder is empty
+📁USB (D:)
+└📁CSGO Cheats
+⠀└⠀✅AimBot
+└⠀✅Wall-Hack
+⠀└⠀✅Bhops
+⠀└⠀✅Aimlock
+⠀└⠀✅Triggerbot
+└⠀✅Anti-Aim         <-----steam profile comment 
+
+skribl besede--->             gasilec, postar, kruh, klobasa, kolo, postar, pes, macka, sir, resevalec, okno, miska, tipkovnica, ekran, racunalnik, letalonosilka
+
+ツ   -smile face
